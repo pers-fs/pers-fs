@@ -1,6 +1,8 @@
-<img src="banner.jpg" width="100%"/>
+<p align="center">
+  <img src="meddle.gif" width="100%"/>
+</p>
 
-Freelance analytics engineer based in Berlin. Building personal data projects · into music.
+Building personal data projects music related, Berlin based.
 
 ---
 
