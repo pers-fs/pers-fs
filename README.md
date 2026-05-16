@@ -6,6 +6,8 @@ Building personal data projects music related, Berlin based.
 
 ---
 
+##### stack
+
 ![SQL](https://img.shields.io/badge/SQL-3d6b6b?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4a6b7a?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-3d5a2e?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -23,6 +25,8 @@ Building personal data projects music related, Berlin based.
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-3d3d5a?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
+
+##### contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3d5a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-struffi)
 [![Email](https://img.shields.io/badge/Email-6b3d2e?style=flat-square&logo=gmail&logoColor=white)](mailto:filippo.struffi@gmail.com)
