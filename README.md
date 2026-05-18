@@ -2,7 +2,7 @@
   <img src="meddle.gif" width="100%"/>
 </p>
 
-Building personal data projects music related, Berlin based.
+Building personal data projects, mostly music related. Berlin based.
 
 ---
 
