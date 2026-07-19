@@ -3,11 +3,11 @@ import os
 import numpy as np
 from PIL import Image
 
-# Dense (dark) to sparse (light) — maps pixel brightness directly
-CHARS = "@%#*+=- . "
+# Dense (dark) to sparse (light) — 70-level ramp
+CHARS = "@$B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/|()1{}[]?-_+~<>i!lI;:,\"^`'. "
 
 
-def to_ascii(path, cols=55, char_aspect=0.55):
+def to_ascii(path, cols=80, char_aspect=0.55):
     img = Image.open(path).convert("L")
     w, h = img.size
     rows = int(cols * (h / w) * char_aspect)
@@ -17,8 +17,8 @@ def to_ascii(path, cols=55, char_aspect=0.55):
     return ["".join(CHARS[int(p / 255 * n)] for p in row) for row in px]
 
 
-def make_svg(lines, out, fs=11, cw=6.6, lh=13,
-             bg="#0d1117", fg="#c9d1d9", row_delay=0.05):
+def make_svg(lines, out, fs=8, cw=4.8, lh=10,
+             bg="#0d1117", fg="#c9d1d9", row_delay=0.04):
     W = int(max(len(l) for l in lines) * cw) + 10
     H = int(len(lines) * lh) + 10
 
