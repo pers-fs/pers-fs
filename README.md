@@ -1,4 +1,15 @@
-Building personal data projects, mostly music related. Berlin based.
+<div align="center">
+
+<table><tr>
+<td valign="top"><img src="assets/ascii-portrait.svg"/></td>
+<td valign="top"><img src="assets/info-card.svg"/></td>
+</tr></table>
+
+<br/>
+
+<img src="assets/contrib-heatmap.svg"/>
+
+</div>
 
 ---
 
@@ -39,7 +50,6 @@ Building personal data projects, mostly music related. Berlin based.
 ![Docker](https://img.shields.io/badge/Docker-2e4a6b?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-6b3d2e?style=flat-square&logo=git&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4a4a5a?style=flat-square&logo=linux&logoColor=white)
-
 
 ---
 
