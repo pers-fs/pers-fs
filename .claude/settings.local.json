@@ -7,7 +7,8 @@
       "Bash(python3 scripts/make_ascii_svg.py profile_processed.png assets/ascii-portrait.svg)",
       "Bash(python3 scripts/make_info_card.py assets/info-card.svg)",
       "Bash(python3 scripts/fetch_contributions.py pers-fs contributions.json)",
-      "Bash(python3 scripts/render_heatmap_svg.py contributions.json assets/contrib-heatmap.svg)"
+      "Bash(python3 scripts/render_heatmap_svg.py contributions.json assets/contrib-heatmap.svg)",
+      "Bash(python3 scripts/prep_photo.py '/Users/filippostruffi/Desktop/posters-pink-floyd-wish-you-were-here-album-cover-poster-100779-28275590332469.jpg copy.png' profile_processed.png)"
     ]
   }
 }
