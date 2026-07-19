@@ -1,0 +1,6 @@
+profile.jpg
+profile_processed.png
+contributions.json
+__pycache__/
+*.pyc
+.DS_Store
