@@ -366,6 +366,7 @@
 <rect x="795" y="100" width="12" height="12" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.399s" fill="freeze"/></rect>
 <rect x="810" y="10" width="12" height="12" rx="2" fill="#39d353" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.364s" fill="freeze"/></rect>
 <rect x="810" y="25" width="12" height="12" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.371s" fill="freeze"/></rect>
+<rect x="810" y="40" width="12" height="12" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.378s" fill="freeze"/></rect>
 <text x="30" y="139" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8b949e">Jul</text>
 <text x="60" y="139" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8b949e">Aug</text>
 <text x="135" y="139" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8b949e">Sep</text>
